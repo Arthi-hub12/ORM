@@ -1,6 +1,6 @@
 # Ex02 Django ORM Web Application
 ## Date: 23/11/25
-## Register: 250111764
+## Register: 25011764
 
 ## AIM
 To develop a Django Application to store and retrieve data from a E-Commerce Website Database for Amazon or Flipkart using Object Relational Mapping(ORM).
