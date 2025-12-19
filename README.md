@@ -24,7 +24,7 @@ Execute Django admin and create details for 10 books
 ~~~
 models.py
 
-rom django.db import models 
+from django.db import models 
 from django.contrib import admin
 class amazon_DB (models.Model):
      Product_name=models.CharField(max_length=20)
